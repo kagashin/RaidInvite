@@ -1,0 +1,10 @@
+## Title: RaidInvite
+## Version: 1.0
+## Author: Kyle
+## Interface: 80205
+## SavedVariables: RaidInviteDB
+
+
+embeds.xml
+
+RaidInvite.lua
